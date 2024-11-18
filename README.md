@@ -17,18 +17,21 @@ A simple weather application built with React that allows users to get the curre
 - HTML, CSS for styling
 - Font Awesome for icons
 
-  # Installation Process:
-  1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-  2. Navigate to the project directory in git bash:
-   cd weather-app
-  3. Install dependencies:
-   npm install
-  4. Create a .env file in the root directory and add your OpenWeatherMap API key:
-   REACT_APP_API_KEY=your_openweathermap_api_key
-  5. Start the development server:
-   npm start
+# Installation Process:
+  Clone this repository in bash
+   - git clone https://github.com/your-username/weather-app.git
+     
+  Navigate to the project directory in git bash:
+   - cd weather-app
+     
+  Install dependencies:
+   - npm install
+     
+  Create a .env file in the root directory and add your OpenWeatherMap API key:
+   - REACT_APP_API_KEY=your_openweathermap_api_key
+     
+  Start the development server:
+   - npm start
    Then, open http://localhost:3000 in your browser to view the app.
 
 # Usage:
@@ -36,14 +39,14 @@ A simple weather application built with React that allows users to get the curre
    Click Get 5-Day Forecast to see the weather forecast for the next 5 days.
    You can also toggle between Profile and Info sections using the respective buttons to see information provided.
 
-  # Future Scope:
+# Future Scope:
    Add user geolocation detection to detect user's location and show weather data.
    Extend the app to show hourly weather forecasts.
    
-  # Author:
+# Author:
    Saisree Alaparthi
    
-  # Acknowledgments:
+# Acknowledgments:
    The app uses the OpenWeatherMap API for fetching weather data. Font Awesome icons are used for the profile and info buttons.
    Thanks for PM Accelerator program for providing this opportunity to work on a project based on the Weather App.
    
