@@ -32,7 +32,8 @@ A simple weather application built with React that allows users to get the curre
      
   Start the development server:
    - npm start
-   Then, open http://localhost:3000 in your browser to view the app.
+     
+  Then, open http://localhost:3000 in your browser to view the app.
 
 # Usage:
    Enter the name of any city in the input field and click Get Weather to view current weather information.
